@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-About Me
+About Me:
 
 Final-year B.E. in AI & ML
 
@@ -26,6 +26,6 @@ Learning DSA and improving my LeetCode skills
 Passionate about building projects that solve real-world problems
 
 
- Connect With Me
+ Connect With Me:
 
 📧 Email: sharanyakasireddy18@gmail.com
