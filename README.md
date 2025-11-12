@@ -26,6 +26,7 @@ Learning DSA and improving my LeetCode skills
 Passionate about building projects that solve real-world problems
 
 
+
  Connect With Me:
 
-📧 Email: sharanyakasireddy18@gmail.com
+📩 Email: sharanyakasireddy18@gmail.com
