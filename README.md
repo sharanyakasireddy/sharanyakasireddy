@@ -30,3 +30,8 @@ Passionate about building projects that solve real-world problems
  Connect With Me:
 
 📩 Email: sharanyakasireddy18@gmail.com
+🔗LinkedIn: https://linkedin.com/in/yourprofile
+
+![Sharanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharanyakasireddy&show_icons=true)
+
+
