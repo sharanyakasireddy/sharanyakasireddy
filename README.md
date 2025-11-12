@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi, I'm Sharanya!
 
 <!--
 **sharanyakasireddy/sharanyakasireddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+About Me
+
+Final-year B.E. in AI & ML
+
+Interested in open-source contributions and collaborative AI projects
+
+Learning DSA and improving my LeetCode skills
+
+Passionate about building projects that solve real-world problems
+
+
+ Connect With Me
+
+📧 Email: sharanyakasireddy18@gmail.com
