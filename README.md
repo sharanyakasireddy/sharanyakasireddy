@@ -11,23 +11,23 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 About Me:
 
-Final-year B.E. in AI & ML
+• Final-year B.E. student in AI & ML
 
-Interested in open-source contributions and collaborative AI projects
+• Interested in open-source contributions and collaborative software projects
 
-Learning DSA and improving my LeetCode skills
+• Improving my DSA fundamentals and overall problem-solving skills
 
-Passionate about building projects that solve real-world problems
+• Passionate about building practical solutions that address real-world problems
+
+• Looking to collaborate on full-stack and open-source software development projects
 
 
 
- Connect With Me:
+ How to reach me:
 
 📩 Email: sharanyakasireddy18@gmail.com
 🔗LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sharanyakasireddy/)
