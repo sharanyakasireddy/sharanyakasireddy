@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Sharanya!
 
 <!--
-**sharanyakasireddy/sharanyakasireddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sharanyakasireddy/sharanyakasireddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 Here are some ideas to get you started:
 
@@ -30,6 +30,7 @@ About Me:
  How to reach me:
 
 📩 Email: sharanyakasireddy18@gmail.com
+
 🔗LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sharanyakasireddy/)
 
 
