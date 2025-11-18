@@ -30,6 +30,7 @@ About Me:
  How to reach me:
 
 📩 Email: sharanyakasireddy18@gmail.com
+
 🔗LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sharanyakasireddy/)
 
 
